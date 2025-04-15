@@ -32,7 +32,7 @@ The analysis includes plots for:
 *   ACF and PACF of the differenced series.
 *   Forecasts with confidence intervals.
 *   2D confidence region for forecast points.
-*   ![Forecast Plot Example](images/forecast.png)
+*   ![Forecast Plot Example](forecast.png)
 
 ## Code
 
